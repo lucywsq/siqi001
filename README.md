@@ -1,4 +1,4 @@
-# Taichi Voxel Challenge
+# A purple building
 
 ## Installation
 
@@ -13,6 +13,7 @@ to install the dependendies of the voxel renderer.
 Please fill in your code in `main.py` and include your result in this README.md file.
 
 ## Demo
+![main2](https://user-images.githubusercontent.com/38712162/163805219-22a35a64-ecee-4713-bdbb-f3b6e60ff98e.jpg)
 
 
 ## Quickstart
